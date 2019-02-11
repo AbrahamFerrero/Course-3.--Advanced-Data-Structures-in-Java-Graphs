@@ -1,3 +1,10 @@
+Abraham Ferrero notes:
+
+Here are the files to check where I actually had to code the tasks or the assignments. Always marked with a "TO DO", as usual:
+
+Week 1: src/basicgraph/Graph.java and GraphAdjList.java  -- There is also a DegreeGrader.java to quickly test my code. 
+Week 2 and week 3: Every class in the "roadgraph" package
+
 /-------------------------------------------------------------------------
 / Starter Code and GUI Application for Course 3 in the
 / Java Programming: Object Oriented Design of 
